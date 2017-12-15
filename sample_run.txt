@@ -1,0 +1,25 @@
+Hello. I'm  ____ ____ ____ ____ ____ ____ ____ 
+           ||R |||u |||d |||e |||B |||o |||t ||
+           ||__|||__|||__|||__|||__|||__|||__||
+           |/__\|/__\|/__\|/__\|/__\|/__\|/__\|.
+What's your darn name?
+Jake
+How's your crummy life Jake? 
+Jake: It could be better
+RudeBot:What's the best college in America?
+Jake: Probably Yale
+RudeBot:Well you're not getting in so might as well give up now.
+Jake: Aw why are you so mean?
+RudeBot:Stop asking dumb questions!!!!!
+Jake: You are so incredibly rude, Rudebot!
+RudeBot:Go back to watching YouTube videos.
+Jake: but I can't because Ajit Pai
+RudeBot:Why don't you stop talking to me?
+Jake: because I love you
+RudeBot:Absolutely annoying.
+Jake: Goodbye RudeBot
+RudeBot:Go back to watching YouTube videos.
+Jake: Goodbye
+Goodbye. It was terrible talking to you.
+Would you like to annoyingly chat again? (y/n)N
+>>> 
